@@ -32,11 +32,11 @@ def print_first_directors_movie_titles
   #   row_index += 1
 #   end
 # end
-count = 0
-title = "Hi"
-while count < directors_database.length do
-title = directors_database[a;[:title]
-puts title
-count += 1
-end
+# count = 0
+# title = "Hi"
+# while count < directors_database.length do
+# title = directors_database[a;[:title]
+# puts title
+# count += 1
+# end
 end
