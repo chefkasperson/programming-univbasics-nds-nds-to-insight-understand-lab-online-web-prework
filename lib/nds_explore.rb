@@ -35,7 +35,7 @@ def print_first_directors_movie_titles
 count = 0
 title = "Hi"
 while count < directors_database.length do
-title = directors_database[c9[:title]
+title = directors_database[a;[:title]
 puts title
 count += 1
 end
