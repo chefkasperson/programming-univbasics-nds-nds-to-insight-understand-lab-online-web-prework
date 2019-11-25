@@ -39,5 +39,5 @@ def print_first_directors_movie_titles
 # puts title
 # count += 1
 # end
-puts directors_database[]
+puts directors_database[0][0]
 end
